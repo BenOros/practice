@@ -2,4 +2,6 @@ print ("Practice")
 print ("Ben is me")
 print ("Nothing")
 x = 53
-print(x)
+y = 1
+print (y)
+print (x)
